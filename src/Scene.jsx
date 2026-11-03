@@ -4,8 +4,8 @@ import { ContactShadows, Environment, Lightformer, Text } from '@react-three/dre
 import * as THREE from 'three'
 import { sounds } from './sound.js'
 
-export const MAST = 'THE JOSIN JOURNAL'
-export const HEAD = 'EVERY GREAT IDEA\nSTARTS WITH CURIOSITY'
+export const MAST = 'THE JOURNEY JOSIN'
+export const HEAD = 'JOSIN\nJOSEPH'
 
 function useType(full, delay, speed, go) {
   const [length, setLength] = useState(0)
